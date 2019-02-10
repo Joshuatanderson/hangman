@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Hangman game</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+    <link rel="stylesheet" type="text/css" href="hangman.css">
+    
+</head>
+
+<body>
+    <section class="hero is-dark is-bold">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">Welcome to Hangman... good luck :)</h1>
+                <p></p>
+            </div>
+        </div>
+    </section>
+    
+    <nav class="level">
+        <div id="alphabet-btns" class="level-item buttons">
+
+         </div>
+    </nav>
+    <nav class="level">
+        <div id="solution-btns" class="level-item is-danger">
+
+        </div>
+    </nav>
+    <div class="container">
+        <p class="subtitle">
+            Lives remaining:
+        </p>
+        <p class="subtitle" id="guess-counter">
+            6
+        </p>
+    </div>
+    <br>
+    <div class="container">
+        <p class="subtitle">
+            Letters to guess:
+        </p>
+        <p class="subtitle" id="letter-counter">
+            
+        </p>
+    </div>
+    
+    <div class="hidden" id="svg-object">
+        <object data="img/hangman.svg" type="image/svg+xml" id="external-svg"></object>
+    </div>
+
+</body>
+<script src="hangman.js"></script>
+</html>

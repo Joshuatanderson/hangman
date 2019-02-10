@@ -1,0 +1,12 @@
+.hidden{
+    visibility: hidden;
+}
+
+.button{
+    margin: 3px;
+    flex-basis: 34px;
+}
+
+.button-large{
+    flex-basis: 50px;
+}

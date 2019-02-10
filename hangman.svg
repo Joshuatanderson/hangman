@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1342 892" style="enable-background:new 0 0 1342 892;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#F7941D;stroke-width:8;stroke-miterlimit:10;}
+	.st1{fill:#E294C0;}
+	.st2{fill:#F7941D;}
+	.st3{fill:none;stroke:#F7941D;stroke-width:10;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+    
+<path id = "element0" class="st0" d="M525,348c0-204,0-273,0-273"/>
+<ellipse id = "element1" class="st1" cx="525" cy="431" rx="49" ry="112"/>
+<ellipse id="element2" transform="matrix(0.4051 -0.9143 0.9143 0.4051 -247.5583 780.1052)" class="st1" cx="475.69" cy="580.29" rx="80" ry="15.98"/>
+<ellipse id="element3" transform="matrix(0.9143 -0.4051 0.4051 0.9143 -185.9014 282.1688)" class="st1" cx="573.69" cy="580.29" rx="15.98" ry="80"/>
+<ellipse id="element4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -106.4751 534.9465)" class="st1" cx="592.5" cy="396" rx="54" ry="16.5"/>
+<ellipse id="element5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -145.7227 440.1942)" class="st1" cx="458.5" cy="396" rx="16.5" ry="54"/>
+<circle id="element6" class="st2" cx="525" cy="386" r="10"/>
+<circle id="element7" class="st2" cx="525" cy="441" r="10"/>
+<circle id="element8" class="st2" cx="525" cy="414" r="10"/>
+<path class="st0" d="M476,365c0,0,73,25,98,0s-6.28-11.05-6.28-11.05s-20.25-2.87-42.72-4.74C488.25,346.15,445.59,345.76,476,365z"
+	/>
+<g>
+	<circle id="element9" class="st1" cx="525" cy="277" r="88"/>
+</g>
+<g>
+	<line class="st3" x1="488.5" y1="243" x2="467" y2="264.5"/>
+	<line class="st3" x1="467" y1="243" x2="488.5" y2="264.5"/>
+</g>
+<g>
+	<line class="st3" x1="573.5" y1="243" x2="552" y2="264.5"/>
+	<line class="st3" x1="552" y1="243" x2="573.5" y2="264.5"/>
+</g>
+<path class="st3" d="M467,301c0,0,27,18,58,18s49-18,49-18"/>
+<rect x="335" y="655" class="st2" width="399" height="39"/>
+<rect x="671" y="67" class="st2" width="63" height="588"/>
+<rect x="424" y="52" class="st2" width="310" height="15"/>
+<circle class="st2" cx="525" cy="68" r="15"/>
+</svg>
